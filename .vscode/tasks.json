@@ -8,7 +8,8 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${workspaceFolder}/*.cpp",
+                "${workspaceFolder}/main.cpp",
+                "${workspaceFolder}/HabitTracker.cpp",
                 "-o",
                 "${workspaceFolder}/main"
             ],

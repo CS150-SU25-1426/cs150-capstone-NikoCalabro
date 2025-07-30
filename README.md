@@ -1,3 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/W7bqK6NI)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19987535)
-# CS150-Capstone
+
+Resources: I didn't use much for this project. When I forgot something, I used the notes I took or just looked it up on Google (my go-to webstite is usually w3 schools). When I was really stuck, I used the built-in copilot, but honestly it wasn't much help.
